@@ -1,8 +1,10 @@
 # Mission and goal
 
-Today we are still in the early phases of learning how to design, architect and coordinate token networks (aka. DAOs). This project looks to aggregate as much of everyone's learnings together so that we can all build better decentralized communities.
+Today we are still in the early phases of learning how to design, architect and coordinate token networks. 
 
-**Our goal is to build up the first full comprehensive end-to-end guide on design, execution and on-going coordination of a decentralized token network community.**
+This project looks to aggregate as much of everyone's learnings together so that we can all build better decentralized communities.
+
+**Our goal is to build up the first full comprehensive end-to-end guide on the design, execution and on-going coordination of a decentralized token network community.**
 
 We believe this work should be open source and belong to the public commons.
 
@@ -27,9 +29,7 @@ In addition to the content itself, we will ONLY accept content from existing DAO
 
 ## Governance
 
-While the content of this project looks to be crowdsourced, and it will be a centrally governed and managed project by a few select individuals.
-
-If you believe this project to be mis-managed for any other purposes than to create the best aggregation of DAO learnings, we invite you to fork the project.
+While the content of this project looks to be crowdsourced, and it will be a centrally governed and managed project by a few select individuals. If you believe this project to be mis-managed for any other purposes than to create the best aggregation of DAO learnings, we invite you to fork the project.
 
 ## Endgoal
 
