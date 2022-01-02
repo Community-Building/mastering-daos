@@ -1,12 +1,7 @@
 # Mission and goal
 
-Today we are still in the early phases of learning how to design, architect and coordinate token networks. 
-
-This project looks to aggregate as much of everyone's learnings together so that we can all build better decentralized communities.
-
 **Our goal is to build up the first full comprehensive end-to-end guide on the design, execution and on-going coordination of a decentralized token network community.**
 
-We believe this work should be open source and belong to the public commons.
 
 ## Crowdsourcing of knowledge
 
