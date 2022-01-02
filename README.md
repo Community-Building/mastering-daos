@@ -1,6 +1,6 @@
 # Mission and goal
 
-**Our goal is to build up the first full comprehensive end-to-end guide on the design, execution and on-going coordination of decentralized token network communities.**
+**Our goal is to build up the first full comprehensive end-to-end guide on the design and execution of DAOs.**
 
 
 ## Crowdsourcing of knowledge
